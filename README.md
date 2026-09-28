@@ -1,9 +1,4 @@
 Привет!
-yaml
-
-name: "Твоё Имя"
-role: "Mod Developer"
-experience: "3+ года"
 
 Обо мне
 
